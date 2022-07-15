@@ -59,18 +59,18 @@ These resetters should work with chips from cartridges used in the following pri
 
 Cartridge models:
 
-| EPSON | RICOH   |
-|-------|---------|
-| T0711 | GC 41K  |
-| T0712 | GC 41C  |
-| T0713 | GC 41M  |
-| T0714 | GC 41Y  |
-|       | GC 41KL |
-|       | GC 41CL |
-|       | GC 41ML |
-|       | GC 41YL |
-|       | _IC 41_ |
-|       | 407166  |
+| EPSON | Compatible resetter | RICOH   | Compatible resetter |
+|-------|---------------------|---------|---------------------|
+| T0711 | DX4050              | GC 41K  | SG2100N             |
+| T0712 | DX4050              | GC 41C  | SG2100N             |
+| T0713 | DX4050              | GC 41M  | SG2100N             |
+| T0714 | DX4050              | GC 41Y  | SG2100N             |
+|       |                     | GC 41KL | SG2100N             |
+|       |                     | GC 41CL | SG2100N             |
+|       |                     | GC 41ML | SG2100N             |
+|       |                     | GC 41YL | SG2100N             |
+|       |                     | _IC 41_ | SG2100N             |
+|       |                     | 407166  | SP112               |
 
 This gives a total of 13 cartridge models and 1 waste ink container model, used in 60 different printer and MFP models.
 
