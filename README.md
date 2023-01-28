@@ -4,6 +4,8 @@ This repository contains electronic schematics and source code for resetters of 
 
 Ready-made resetters of Chinese origin, for different cartridge models can be purchased on various sites, such as AliExpress or eBay. If you want to make such a resetter for your printer yourself, you can use this repository.
 
+For more information on how the DRM protections used in printer cartridges work, and how to analyze them and create resetters yourself, see my research paper, available here: [research paper](https://czasopisma.uwm.edu.pl/index.php/ts/article/view/7634).
+
 Currently, this repository contains documentation of resetters for printers and MFPs from two manufacturers - EPSON and RICOH.
 
 These resetters should work with chips from cartridges used in the following printer/MFP models:
